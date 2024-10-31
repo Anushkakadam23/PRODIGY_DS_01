@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# DataScience Intership Task 1
 
 ## Introduction
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Info Tech. In this task, I conducted Exploratory Data Analysis (EDA) on a dataset focusing on visualizing the distribution of a categorical or continuous variable.
